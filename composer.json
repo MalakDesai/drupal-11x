@@ -26,6 +26,7 @@
         "drupal/core-project-message": "^11.2",
         "drupal/core-recipe-unpack": "^11.2",
         "drupal/core-recommended": "^11.2",
+        "drupal/examples": "^4.0",
         "drupal/pathauto": "^1.13",
         "drupal/stage_file_proxy": "^3.1",
         "drush/drush": "^13.6"
